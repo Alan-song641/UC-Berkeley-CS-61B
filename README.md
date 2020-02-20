@@ -11,7 +11,7 @@ Greeting！这是我学习UC Berkeley CS61B课程的学习记录，使用的是2
 
 ### English Version： 
 
-Greeting! This is the studying records of UC Berkeley CS61B，which version is 2014 fall.
+Greeting! This is the studying records of UC Berkeley CS61B，which version of 2014 fall.
 
 Bascially, most of the homework, lab & projects are finished with remark in Chinese, except those in the discussion section, and with messy code.
 
